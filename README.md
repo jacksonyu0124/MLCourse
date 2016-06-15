@@ -1,2 +1,2 @@
 # MLCourse
-Projects in Machine Learning course
+This redpository contains projects in the Udacity Machine Learning course.
